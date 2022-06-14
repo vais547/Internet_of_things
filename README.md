@@ -52,3 +52,6 @@ https://wokwi.com/projects/333806282102276690
 
 temperature and humidity sensor:
 https://wokwi.com/projects/334432657132749396
+
+ultrasonic sensor:
+https://wokwi.com/projects/334433287459045970
