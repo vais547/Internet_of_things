@@ -61,3 +61,6 @@ https://wokwi.com/projects/334434444877234771
 
 pir sensor:
 https://wokwi.com/projects/334434753049526866
+
+led fade:
+https://wokwi.com/projects/334435448281629266
