@@ -58,3 +58,6 @@ https://wokwi.com/projects/334433287459045970
 
 infrared sensor:
 https://wokwi.com/projects/334434444877234771
+
+pir sensor:
+https://wokwi.com/projects/334434753049526866
