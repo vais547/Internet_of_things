@@ -55,3 +55,6 @@ https://wokwi.com/projects/334432657132749396
 
 ultrasonic sensor:
 https://wokwi.com/projects/334433287459045970
+
+infrared sensor:
+https://wokwi.com/projects/334434444877234771
