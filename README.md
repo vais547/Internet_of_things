@@ -71,3 +71,8 @@ https://wokwi.com/projects/334435795295273554
 motion sensor:
 https://wokwi.com/projects/334436116397556306
 
+motion sensor with led:
+https://wokwi.com/projects/334436693137424978
+
+motion sensor with buzzer:
+https://wokwi.com/projects/334437025681769044
