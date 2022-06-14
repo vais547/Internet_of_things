@@ -49,3 +49,6 @@ https://wokwi.com/projects/333800084416234068
 }
 
 https://wokwi.com/projects/333806282102276690
+
+temperature and humidity sensor:
+https://wokwi.com/projects/334432657132749396
