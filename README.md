@@ -96,7 +96,7 @@ servo motor using ultrasonic:
 https://wokwi.com/projects/335066953225863762
 
 buzzer beep:
-https://wokwi.com/projects/335067666141151828
+https://wokwi.com/projects/335071019023729236
 
 buzzer beep using pushbutton:
 https://wokwi.com/projects/335067666141151828
