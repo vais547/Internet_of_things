@@ -83,3 +83,14 @@ https://wokwi.com/projects/334437623425663572
 ultrasonic led:
 https://wokwi.com/projects/334437975813259860
 
+servomotor:
+https://wokwi.com/projects/335065632001229394
+
+serovo motor controlled by potentiometer:
+https://wokwi.com/projects/335066301261152851
+
+button servo motor:
+https://wokwi.com/projects/335066627366191698
+
+servo motor using ultrasonic:
+https://wokwi.com/projects/335066953225863762
