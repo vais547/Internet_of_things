@@ -94,3 +94,6 @@ https://wokwi.com/projects/335066627366191698
 
 servo motor using ultrasonic:
 https://wokwi.com/projects/335066953225863762
+
+:
+https://wokwi.com/projects/335067666141151828
