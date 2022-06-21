@@ -50,54 +50,54 @@ https://wokwi.com/projects/333800084416234068
 
 https://wokwi.com/projects/333806282102276690
 
-**temperature and humidity sensor:**
+**temperature and humidity sensor:**<br>
 https://wokwi.com/projects/334432657132749396
 
-**ultrasonic sensor:**
+**ultrasonic sensor:**<br>
 https://wokwi.com/projects/334433287459045970
 
-**infrared sensor:**
+**infrared sensor:**<br>
 https://wokwi.com/projects/334434444877234771
 
-**pir sensor:**
+**pir sensor:**<br>
 https://wokwi.com/projects/334434753049526866
 
-**led fade:**
+**led fade:**<br>
 https://wokwi.com/projects/334435448281629266
 
-**led button:**
+**led button:**<br>
 https://wokwi.com/projects/334435795295273554
 
-**motion sensor:**
+**motion sensor:**<br>
 https://wokwi.com/projects/334436116397556306
 
-**motion sensor with led:**
+**motion sensor with led:**<br>
 https://wokwi.com/projects/334436693137424978
 
-**motion sensor with buzzer:**
+**motion sensor with buzzer:**<br>
 https://wokwi.com/projects/334437025681769044
 
-**ultrasonic buzzer:**
+**ultrasonic buzzer:**<br>
 https://wokwi.com/projects/334437623425663572
 
-**ultrasonic led:**
+**ultrasonic led:**<br>
 https://wokwi.com/projects/334437975813259860
 
-**servomotor:**
+**servomotor:**<br>
 https://wokwi.com/projects/335065632001229394
 
-**serovo motor controlled by potentiometer:**
+**serovo motor controlled by potentiometer:**<br>
 https://wokwi.com/projects/335066301261152851
 
-**button servo motor:**
+**button servo motor:**<br>
 https://wokwi.com/projects/335066627366191698
 
-**servo motor using ultrasonic:**
+**servo motor using ultrasonic:**<br>
 https://wokwi.com/projects/335066953225863762
 
-**buzzer beep:**
+**buzzer beep:**<br>
 https://wokwi.com/projects/335071019023729236
 
-**buzzer beep using pushbutton:**
+**buzzer beep using pushbutton:**<br>
 https://wokwi.com/projects/335067666141151828
 
