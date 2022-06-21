@@ -78,7 +78,7 @@ https://wokwi.com/projects/334436693137424978
 https://wokwi.com/projects/334437025681769044
 
 **ultrasonic buzzer:**<br>
-https://wokwi.com/projects/334437623425663572
+https://wokwi.com/projects/334434213071684180
 
 **ultrasonic led:**<br>
 https://wokwi.com/projects/334437975813259860
