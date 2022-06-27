@@ -101,3 +101,5 @@ https://wokwi.com/projects/335071019023729236
 **buzzer beep using pushbutton:**<br>
 https://wokwi.com/projects/335067666141151828
 
+**ultrasonic buzzer with led**
+https://wokwi.com/projects/335611115355505236
