@@ -106,3 +106,6 @@ https://wokwi.com/projects/335613901308691027
 
 **Lcd**:<br>
 https://wokwi.com/projects/333806073021465171
+
+**potentiometer fade led**<br>
+https://wokwi.com/projects/335700946921194068
