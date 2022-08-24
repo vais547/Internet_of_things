@@ -217,3 +217,27 @@ startMillis = currentMillis;<br>
 }<br>
 }<br>
 
+**LED series**<br>
+
+int pinsCount=5; // declaring the integer variable pinsCount<br>
+int pins[] = {D1,D2,D3,D4,D5,}; // declaring the array pins[]<br>
+
+void setup() {<br>
+for (int i=0; i<pinsCount; i=i+1){ // counting the variable i from 0 to 9<br>
+pinMode(pins[i], OUTPUT); // initialising the pin at index i of the array of pins as OUTPUT<br>
+}<br>
+}<br>
+void loop() {<br>
+for (int i=0; i<pinsCount; i=i+1){ // chasing right<br>
+digitalWrite(pins[i], HIGH); // switching the LED at index i on<br>
+delay(100); // stopping the program for 100 milliseconds<br>
+digitalWrite(pins[i], LOW); // switching the LED at index i off<br>
+}<br>
+for (int i=pinsCount-1; i>0; i=i-1){ // chasing left (except the outer leds)<br>
+digitalWrite(pins[i], HIGH); // switching the LED at index i on<br>
+delay(100); // stopping the program for 100 milliseconds<br>
+digitalWrite(pins[i], LOW); // switching the LED at index i off<br>
+
+}<br>
+}<br>
+
