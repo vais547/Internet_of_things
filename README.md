@@ -259,4 +259,6 @@ https://wokwi.com/projects/342590121552380499<br>
 **Electronic Safe, powered by an Arduino Uno.**<br>
 https://wokwi.com/projects/342591790465942100<br>
 
+**Arduino LED Graph Bar - Move the potentiometer knob to control the LEDs Reference: **<br>
+https://wokwi.com/projects/342592919800119892
 
