@@ -242,16 +242,16 @@ digitalWrite(pins[i], LOW); // switching the LED at index i off<br>
 }<br>
 
 
-**Seven segment LED display:**
-https://wokwi.com/projects/342585695001379411
+**Seven segment LED display:**<br>
+https://wokwi.com/projects/342585695001379411<br>
 
-**Analog Joystick with two axes (horizontal/vertical) and an integrated push button. Etch-a-sketch - A simple drawing game using a MAX7219 LED Dot Matrix Reference:**
-https://wokwi.com/projects/342586850013086290
+**Analog Joystick with two axes (horizontal/vertical) and an integrated push button. Etch-a-sketch - A simple drawing game using a MAX7219 LED Dot Matrix Reference:**<br>
+https://wokwi.com/projects/342586850013086290<br>
 
-**DHT22 on the ESP32 Reference**
-https://wokwi.com/projects/342587624374927954
+**DHT22 on the ESP32 Reference**<br>
+https://wokwi.com/projects/342587624374927954<br>
 
-**Display distance on LCD screen with buzzer and LED  Reference 1:**
-https://wokwi.com/projects/342589400784306771
+**Display distance on LCD screen with buzzer and LED  Reference 1:**<br>
+https://wokwi.com/projects/342589400784306771<br>
 
-https://wokwi.com/projects/342590121552380499
+https://wokwi.com/projects/342590121552380499<br>
