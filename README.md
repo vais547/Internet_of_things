@@ -250,3 +250,6 @@ https://wokwi.com/projects/342586850013086290
 
 **DHT22 on the ESP32 Reference**
 https://wokwi.com/projects/342587624374927954
+
+**Display distance on LCD screen with buzzer and LED  Reference 1:**
+https://wokwi.com/projects/342589400784306771
