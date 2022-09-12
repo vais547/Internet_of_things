@@ -255,3 +255,8 @@ https://wokwi.com/projects/342587624374927954<br>
 https://wokwi.com/projects/342589400784306771<br>
 
 https://wokwi.com/projects/342590121552380499<br>
+
+**Electronic Safe, powered by an Arduino Uno.**<br>
+https://wokwi.com/projects/342591790465942100<br>
+
+
